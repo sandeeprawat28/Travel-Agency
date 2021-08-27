@@ -694,4 +694,6 @@ header .search-bar-container label:hover {
   .swiper-wrapper {
     flex-direction: column;
   }
+  .brand-container {
+    display: none;
 }
